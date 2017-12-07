@@ -1,2 +1,2 @@
-File 1 is already on the remote repo. AND NOW I'M ADDING THIS HERE If I do another commit/push without "adding" File 1 again, will this change show up in the remote repo?
+TRYING TO CREATE A CONFLICT
 
